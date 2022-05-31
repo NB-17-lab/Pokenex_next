@@ -12,7 +12,7 @@ const ImgWrapper = styled.section`
 const Sobre = () => {
     return (<Layout>
         <TituloSeccao>Sobre Pokenext</TituloSeccao>
-        <p>É um fato estabelecido há muito tempo que um leitor se distrairá com o conteúdo legível de uma página ao olhar para seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, ao contrário de usar 'Conteúdo aqui.</p>
+        <p>É um fato estabelecido há muito tempo que um leitor se distrairá com o conteúdo legível de uma página ao olhar para seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, ao contrário de usar Conteúdo aqui.</p>
         <ImgWrapper>
             <Image
                 src="/img/charizard.png"
